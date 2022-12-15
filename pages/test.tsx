@@ -20,7 +20,7 @@ function test() {
                 </section>
                 <section id="about" className={s.section} >
                     <h1>About</h1>
-                    <p className={s.lead}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, quis!</p>
+                    <p className={s.lead}>Lorem ipsum dolor sit, amet consectetu adipisicing elit. Commodi, quis!</p>
                 </section>
                 <section id="service" className={s.section} >
                     <h1>Service</h1>
