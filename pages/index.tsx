@@ -65,7 +65,7 @@ export default function Home() {
               </div>
               <div className="introVideo">
                 {/* https://www.youtube.com/embed/gucTe2zmJ-8 */}
-                <Player src={"https://r210103.kujo-jotaro.com/onepiece/950.360.62ba18dda7c62650.mp4?hash1=51904e1ad987072a3b7b8340f1d5f8cd&hash2=5942102c5c7e1b595cc4d55843be9982"} />
+                <Player src={"https://youtu.be/INN6d-CL6KU"} />
                 <Player src={"https://www.youtube.com/embed/INN6d-CL6KU"} />
                 <div className="intro-help-block"></div>
                 {/* <div className="intro__video-test">Загрузка відео</div> */}
